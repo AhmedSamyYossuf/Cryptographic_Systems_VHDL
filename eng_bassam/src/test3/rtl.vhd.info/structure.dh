@@ -1,0 +1,12 @@
+DocumentHdrVersion "1.1"
+Header (DocumentHdr
+packageRefs [
+]
+properties [
+(HdrProperty
+class "Ren_Vhdl"
+name "contains_entity"
+value "1"
+)
+]
+)

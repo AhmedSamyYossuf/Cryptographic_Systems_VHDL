@@ -1,0 +1,155 @@
+DESIGN first
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN first
+VIEW symbol.sb
+GRAPHIC 50,0 11 0 
+DESIGN first
+VIEW symbol.sb
+GRAPHIC 57,0 18 0 
+DESIGN first
+VIEW symbol.sb
+GRAPHIC 62,0 19 0 
+DESIGN first
+VIEW symbol.sb
+GRAPHIC 67,0 20 0 
+DESIGN first
+VIEW symbol.sb
+GRAPHIC 52,0 21 0 
+DESIGN first
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN first
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN first
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN first
+VIEW struct.bd
+GRAPHIC 42,0 38 0 
+DESIGN first
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN first
+VIEW struct.bd
+GRAPHIC 0,0 45 2 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 290,0 50 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 278,0 51 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 284,0 52 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 240,0 53 0 
+DESIGN first
+VIEW struct.bd
+NO_GRAPHIC 54
+DESIGN first
+VIEW struct.bd
+NO_GRAPHIC 55
+LIBRARY eng_bassam
+DESIGN key3
+VIEW rtl.vhd
+GRAPHIC 146,0 57 0 
+DESIGN key3
+VIEW symbol.sb
+GRAPHIC 62,0 59 0 
+DESIGN key3
+VIEW symbol.sb
+GRAPHIC 67,0 60 0 
+DESIGN key3
+VIEW symbol.sb
+GRAPHIC 57,0 61 0 
+DESIGN key3
+VIEW symbol.sb
+GRAPHIC 52,0 62 0 
+DESIGN key3
+VIEW symbol.sb
+GRAPHIC 72,0 63 0 
+DESIGN key3
+VIEW symbol.sb
+GRAPHIC 77,0 64 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 205,0 67 0 
+DESIGN test3
+VIEW symbol.sb
+GRAPHIC 72,0 69 0 
+DESIGN test3
+VIEW symbol.sb
+GRAPHIC 62,0 70 0 
+DESIGN test3
+VIEW symbol.sb
+GRAPHIC 57,0 71 0 
+DESIGN test3
+VIEW symbol.sb
+GRAPHIC 77,0 73 0 
+DESIGN test3
+VIEW symbol.sb
+GRAPHIC 82,0 75 0 
+DESIGN test3
+VIEW symbol.sb
+GRAPHIC 52,0 76 0 
+LIBRARY eng_bassam
+DESIGN first
+VIEW struct.bd
+NO_GRAPHIC 79
+DESIGN first
+VIEW struct.bd
+GRAPHIC 146,0 82 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 205,0 83 0 
+DESIGN first
+VIEW struct.bd
+NO_GRAPHIC 86
+DESIGN first
+VIEW struct.bd
+GRAPHIC 146,0 89 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 248,0 91 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 256,0 92 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 280,0 93 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 292,0 94 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 286,0 95 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 242,0 96 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 205,0 98 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 264,0 100 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 242,0 101 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 292,0 102 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 286,0 103 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 280,0 104 0 
+DESIGN first
+VIEW struct.bd
+GRAPHIC 272,0 105 0 
+DESIGN first
+VIEW struct.bd
+NO_GRAPHIC 108

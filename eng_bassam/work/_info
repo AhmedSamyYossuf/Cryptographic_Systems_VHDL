@@ -1,0 +1,422 @@
+m255
+o
+cModel Technology
+dC:\FPGAdv52\Hds\bin
+Eall_code
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1551119356
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/all_code_rtl.vhd
+l0
+L17
+Vm8IiYHg9CU^FM8L]kn9BU0
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work all_code m8IiYHg9CU^FM8L]kn9BU0
+l36
+L30
+VD>o[YGH3FeKR5dbP_Of4N1
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Eblock2
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1563191003
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/block2_struct.vhd
+l0
+L17
+VH;5@G1`?MCbHDoj?7BeLL0
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Astruct
+DE eng_bassam key2 Fo>Lnz`Q3:TN`O:K[]W@S1
+DE eng_bassam encre 0f_Li<MJKS48P08TZ;eY33
+DE work block2 H;5@G1`?MCbHDoj?7BeLL0
+l96
+L53
+VibFId>cLN;mobJ4n]Xh_d2
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Edecryption
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1563191769
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/decryption_struct.vhd
+l0
+L17
+VO??jiGd<QKOLTKA8@IGDX0
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Astruct
+DE eng_bassam key2 Fo>Lnz`Q3:TN`O:K[]W@S1
+DE eng_bassam decryption11 XFzgg@K8z[_VN^H4S]Z`70
+DE work decryption O??jiGd<QKOLTKA8@IGDX0
+l96
+L53
+VG=khh9a1IR@oHa9=[??8:2
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Edecryption11
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1563191768
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/decryption11_rtl.vhd
+l0
+L17
+VXFzgg@K8z[_VN^H4S]Z`70
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work decryption11 XFzgg@K8z[_VN^H4S]Z`70
+l38
+L30
+VmoVd:DGHRo1UMG9d9_0B@0
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Eencre
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1563191003
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/encre_rtl.vhd
+l0
+L17
+V0f_Li<MJKS48P08TZ;eY33
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work encre 0f_Li<MJKS48P08TZ;eY33
+l38
+L30
+V@l_O`FBNC<T`6[R[_W@543
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Efirst
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1551345185
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/first_struct.vhd
+l0
+L17
+VFd<MRikHL2h4:>La:M4Vd0
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Astruct
+DE eng_bassam test3 ;9h1>Z5UUOWXM[gGgBcPU3
+DE eng_bassam key3 ^4X<JP<SeKlB]6<PD`n:90
+DE work first Fd<MRikHL2h4:>La:M4Vd0
+l88
+L46
+VboFGna^l5nVH`m9Vi>Q1o0
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE eng_bassam test3 ;9h1>Z5UUOWXM[gGgBcPU3
+DE eng_bassam key2 5ZbfmI=0hfN>9PD3KRgMe1
+DE work first o>dh1g9bLMG6FQ4H@?oMj3
+l90
+L50
+V[UQ]8RUkNo[iPmVA:TB7=2
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Efirst_code
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1549032015
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/first_code_rtl.vhd
+l0
+L17
+VU@PREQibbzgcWNMJ^HF@21
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work first_code U@PREQibbzgcWNMJ^HF@21
+l41
+L27
+V;^O@CEnU0<KeK1[G2<8KP3
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Efirst_control
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1550277688
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/first_control_rtl.vhd
+l0
+L17
+VhIP>_><G]GYC[i<]1UbZ[0
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work first_control hIP>_><G]GYC[i<]1UbZ[0
+l35
+L27
+VZ><b9V6`zUOi7baJ^BA@K1
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Efirst_key
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1551261076
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/first_key_rtl.vhd
+l0
+L17
+VPQzRT2=L3SSnF1i@i4S;j0
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work first_key PQzRT2=L3SSnF1i@i4S;j0
+l35
+L29
+VG@MEKLl:BPR@h:<>>5^UQ2
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Ekey2
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1563179439
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/key2_rtl.vhd
+l0
+L17
+VFo>Lnz`Q3:TN`O:K[]W@S1
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work key2 Fo>Lnz`Q3:TN`O:K[]W@S1
+l35
+L29
+V6I9WCBF@Y9[X7cPNKGNik3
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Ekey3
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1551344728
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/key3_rtl.vhd
+l0
+L17
+V^4X<JP<SeKlB]6<PD`n:90
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work key3 ^4X<JP<SeKlB]6<PD`n:90
+l35
+L29
+V76Smz=CC<TCk]?91l1H3G2
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Enew_decr
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1563094256
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/new_decr_struct.vhd
+l0
+L17
+VeZ=U^dFHIAR@O8R=KmzC<1
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Astruct
+DE eng_bassam key2 Fo>Lnz`Q3:TN`O:K[]W@S1
+DE eng_bassam decryption11 SZ?BSUOZiZ2CKoVQeF3B=0
+DE work new_decr eZ=U^dFHIAR@O8R=KmzC<1
+l94
+L52
+VRB3gnbgcS[2g?hA<R@8AT3
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Enew_encri
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1563099132
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/new_encri_struct.vhd
+l0
+L17
+V6@zFM;6PH8PDJlRQc;EgM3
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Astruct
+DE eng_bassam key2 Fo>Lnz`Q3:TN`O:K[]W@S1
+DE eng_bassam encre 6BW]ac?fm?_AzFlkSOOfF1
+DE work new_encri 6@zFM;6PH8PDJlRQc;EgM3
+l94
+L52
+V6U2hWl;TEKSJklY>@J9i_0
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Etest
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1550000889
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/test2_rtl.vhd
+l0
+L17
+VoK@TYAL=;_;e?9=m6PLk73
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work test oK@TYAL=;_;e?9=m6PLk73
+l30
+L27
+VVk2BLI5NLcj^0;IXR[C_50
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Etest1
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1550279305
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/test1_rtl.vhd
+l0
+L17
+V:@COmNTMK1S44zhGLA=5n1
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work test1 :@COmNTMK1S44zhGLA=5n1
+l30
+L27
+VaPBoo;Z5LQ<9GJY@X_GI>1
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Etest2
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1551125992
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/test2_rtl.vhd
+l0
+L17
+VIA0hUbGV^GlZeVD<@cNZz3
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work test2 IA0hUbGV^GlZeVD<@cNZz3
+l36
+L28
+VmGDZ>4_0heLBFN@Nh<U383
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Etest3
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1551345119
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/test3_rtl.vhd
+l0
+L17
+V;9h1>Z5UUOWXM[gGgBcPU3
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work test3 ;9h1>Z5UUOWXM[gGgBcPU3
+l37
+L29
+VkXC1je2Db^?n>Xo6jVVZz2
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Etyp
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1551301228
+dC:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work
+FC:/FPGAdv52/Hds/examples/hds_scratch/Tammam/eng_bassam/hdl/typ_rtl.vhd
+l0
+L17
+Va`D@9@NghUlNlz=l58`0@0
+OE;C;5.5e;15
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
+Artl
+DE work typ a`D@9@NghUlNlz=l58`0@0
+l27
+L26
+V^>5>T0@OC8z`IZ5Mmnbb;3
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work C:\FPGAdv52\Hds\examples\hds_scratch\Tammam\eng_bassam\work -nologo
+tExplicit T
